@@ -1,0 +1,38 @@
+h1 { 
+    color: white;
+    font-family: courier;
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: courier;
+
+}
+
+body {
+    background-color: #7070b8;
+    
+
+}
+
+.p1 p {
+    color:whitesmoke;
+    line-height:20px;
+    text-align:center;
+    font-family: courier;
+}
+
+.p2 p {
+    color:white;
+    font-family: courier;
+
+}
+
+.p3 p {
+    text-indent: 25px;
+    color:aliceblue;
+    font-family: courier;
+}
